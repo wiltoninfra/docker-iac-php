@@ -1,0 +1,304 @@
+AH00112: Warning: DocumentRoot [/var/www/html/crm] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/portal] does not exist
+Failed loading /usr/lib/php5/20100525/ZendGuardLoader.so:  /usr/lib/php5/20100525/ZendGuardLoader.so: cannot open shared object file: No such file or directory
+[Wed Jan 10 02:56:52.773386 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Wed Jan 10 02:56:52.773588 2018] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/var/www/html/crm] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/portal] does not exist
+Failed loading /usr/lib/php5/20100525/ZendGuardLoader.so:  /usr/lib/php5/20100525/ZendGuardLoader.so: cannot open shared object file: No such file or directory
+[Wed Jan 10 03:05:28.929291 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Wed Jan 10 03:05:28.929478 2018] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/var/www/html/crm] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/portal] does not exist
+Failed loading /usr/lib/php5/20100525/ZendGuardLoader.so:  /usr/lib/php5/20100525/ZendGuardLoader.so: cannot open shared object file: No such file or directory
+[Wed Jan 10 03:12:41.122139 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Wed Jan 10 03:12:41.122286 2018] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/var/www/html/crm] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/portal] does not exist
+Failed loading /usr/lib/php5/20100525/ZendGuardLoader.so:  /usr/lib/php5/20100525/ZendGuardLoader.so: cannot open shared object file: No such file or directory
+[Wed Jan 10 03:39:04.191911 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Wed Jan 10 03:39:04.192027 2018] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Jan 10 03:44:03.130935 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00112: Warning: DocumentRoot [/var/www/html/crm] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/portal] does not exist
+Failed loading /usr/lib/php5/20100525/ZendGuardLoader.so:  /usr/lib/php5/20100525/ZendGuardLoader.so: cannot open shared object file: No such file or directory
+[Wed Jan 10 03:44:04.431380 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Wed Jan 10 03:44:04.431556 2018] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/var/www/html/crm] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/portal] does not exist
+Failed loading /usr/lib/php5/20100525/ZendGuardLoader.so:  /usr/lib/php5/20100525/ZendGuardLoader.so: cannot open shared object file: No such file or directory
+[Wed Jan 10 04:14:51.335127 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Wed Jan 10 04:14:51.335351 2018] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/var/www/html/crm] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/portal] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/site] does not exist
+Failed loading /usr/lib/php5/20100525/ZendGuardLoader.so:  /usr/lib/php5/20100525/ZendGuardLoader.so: cannot open shared object file: No such file or directory
+[Thu Jan 11 02:50:43.642833 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Thu Jan 11 02:50:43.643272 2018] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/var/www/html/crm] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/portal] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/site] does not exist
+Failed loading /usr/lib/php5/20100525/ZendGuardLoader.so:  /usr/lib/php5/20100525/ZendGuardLoader.so: cannot open shared object file: No such file or directory
+[Thu Jan 11 02:52:46.755375 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Thu Jan 11 02:52:46.756901 2018] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Thu Jan 11 02:53:02.344452 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00112: Warning: DocumentRoot [/var/www/html/crm] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/portal] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/site] does not exist
+Failed loading /usr/lib/php5/20100525/ZendGuardLoader.so:  /usr/lib/php5/20100525/ZendGuardLoader.so: cannot open shared object file: No such file or directory
+[Thu Jan 11 02:55:19.902616 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Thu Jan 11 02:55:19.902785 2018] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Thu Jan 11 02:56:30.847190 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00112: Warning: DocumentRoot [/var/www/html/crm] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/portal] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/site] does not exist
+Failed loading /usr/lib/php5/20100525/ZendGuardLoader.so:  /usr/lib/php5/20100525/ZendGuardLoader.so: cannot open shared object file: No such file or directory
+[Thu Jan 11 02:56:45.825251 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Thu Jan 11 02:56:45.827930 2018] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Thu Jan 11 02:59:49.647814 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00112: Warning: DocumentRoot [/var/www/html/crm] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/portal] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/site] does not exist
+Failed loading /usr/lib/php5/20100525/ZendGuardLoader.so:  /usr/lib/php5/20100525/ZendGuardLoader.so: cannot open shared object file: No such file or directory
+[Thu Jan 11 03:00:02.641299 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Thu Jan 11 03:00:02.641656 2018] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Thu Jan 11 03:03:35.362476 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00112: Warning: DocumentRoot [/var/www/html/crm] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/portal] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/site] does not exist
+Failed loading /usr/lib/php5/20100525/ZendGuardLoader.so:  /usr/lib/php5/20100525/ZendGuardLoader.so: cannot open shared object file: No such file or directory
+[Thu Jan 11 03:04:19.777478 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Thu Jan 11 03:04:19.778519 2018] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Thu Jan 11 03:10:02.324265 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00112: Warning: DocumentRoot [/var/www/html/crm] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/portal] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/site] does not exist
+Failed loading /usr/lib/php5/20100525/ZendGuardLoader.so:  /usr/lib/php5/20100525/ZendGuardLoader.so: cannot open shared object file: No such file or directory
+[Thu Jan 11 03:10:19.481943 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Thu Jan 11 03:10:19.482286 2018] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Thu Jan 11 03:12:24.917731 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00112: Warning: DocumentRoot [/var/www/html/crm] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/portal] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/site] does not exist
+Failed loading /usr/lib/php5/20100525/ZendGuardLoader.so:  /usr/lib/php5/20100525/ZendGuardLoader.so: cannot open shared object file: No such file or directory
+[Thu Jan 11 03:12:39.001736 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Thu Jan 11 03:12:39.001907 2018] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Thu Jan 11 03:13:25.169710 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00112: Warning: DocumentRoot [/var/www/html/crm] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/portal] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/site] does not exist
+Failed loading /usr/lib/php5/20100525/ZendGuardLoader.so:  /usr/lib/php5/20100525/ZendGuardLoader.so: cannot open shared object file: No such file or directory
+[Thu Jan 11 03:13:55.589540 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Thu Jan 11 03:13:55.590496 2018] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Thu Jan 11 03:14:37.661633 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00112: Warning: DocumentRoot [/var/www/html/crm] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/portal] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/site] does not exist
+Failed loading /usr/lib/php5/20100525/ZendGuardLoader.so:  /usr/lib/php5/20100525/ZendGuardLoader.so: cannot open shared object file: No such file or directory
+[Thu Jan 11 03:14:55.687828 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Thu Jan 11 03:14:55.688277 2018] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Thu Jan 11 03:15:40.703887 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00112: Warning: DocumentRoot [/var/www/html/crm] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/portal] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/site] does not exist
+Failed loading /usr/lib/php5/20100525/ZendGuardLoader.so:  /usr/lib/php5/20100525/ZendGuardLoader.so: cannot open shared object file: No such file or directory
+[Thu Jan 11 03:16:02.613714 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Thu Jan 11 03:16:02.614331 2018] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Thu Jan 11 03:16:56.475166 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00112: Warning: DocumentRoot [/var/www/html/crm] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/portal] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/site] does not exist
+Failed loading /usr/lib/php5/20100525/ZendGuardLoader.so:  /usr/lib/php5/20100525/ZendGuardLoader.so: cannot open shared object file: No such file or directory
+[Thu Jan 11 03:17:11.502792 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Thu Jan 11 03:17:11.503659 2018] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Thu Jan 11 03:22:38.375663 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00112: Warning: DocumentRoot [/var/www/html/crm] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/portal] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/site] does not exist
+Failed loading /usr/lib/php5/20100525/ZendGuardLoader.so:  /usr/lib/php5/20100525/ZendGuardLoader.so: cannot open shared object file: No such file or directory
+[Thu Jan 11 03:23:43.337324 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Thu Jan 11 03:23:43.337611 2018] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Thu Jan 11 03:24:22.956245 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00112: Warning: DocumentRoot [/var/www/html/crm] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/portal] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/site] does not exist
+Failed loading /usr/lib/php5/20100525/ZendGuardLoader.so:  /usr/lib/php5/20100525/ZendGuardLoader.so: cannot open shared object file: No such file or directory
+[Thu Jan 11 03:25:28.323271 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Thu Jan 11 03:25:28.328904 2018] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Thu Jan 11 03:27:09.822081 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00112: Warning: DocumentRoot [/var/www/html/crm] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/portal] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/site] does not exist
+Failed loading /usr/lib/php5/20100525/ZendGuardLoader.so:  /usr/lib/php5/20100525/ZendGuardLoader.so: cannot open shared object file: No such file or directory
+[Thu Jan 11 03:28:19.925990 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Thu Jan 11 03:28:19.926302 2018] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Thu Jan 11 03:39:27.064910 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00112: Warning: DocumentRoot [/var/www/html/crm] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/portal] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/site] does not exist
+Failed loading /usr/lib/php5/20100525/ZendGuardLoader.so:  /usr/lib/php5/20100525/ZendGuardLoader.so: cannot open shared object file: No such file or directory
+[Thu Jan 11 03:42:35.684597 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Thu Jan 11 03:42:35.691476 2018] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Thu Jan 11 03:43:20.483266 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00112: Warning: DocumentRoot [/var/www/html/crm] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/portal] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/site] does not exist
+Failed loading /usr/lib/php5/20100525/ZendGuardLoader.so:  /usr/lib/php5/20100525/ZendGuardLoader.so: cannot open shared object file: No such file or directory
+[Fri Jan 12 02:04:52.071988 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Fri Jan 12 02:04:52.072422 2018] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/var/www/html/crm] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/portal] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/site] does not exist
+Failed loading /usr/lib/php5/20100525/ZendGuardLoader.so:  /usr/lib/php5/20100525/ZendGuardLoader.so: cannot open shared object file: No such file or directory
+[Fri Jan 12 02:49:32.907837 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Fri Jan 12 02:49:32.907993 2018] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Fri Jan 12 03:32:08.767125 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00112: Warning: DocumentRoot [/var/www/html/crm] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/portal] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html/site] does not exist
+Failed loading /usr/lib/php5/20100525/ZendGuardLoader.so:  /usr/lib/php5/20100525/ZendGuardLoader.so: cannot open shared object file: No such file or directory
+[Wed Jan 17 01:41:41.536612 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Wed Jan 17 01:41:41.536898 2018] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Jan 17 01:54:51.948585 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+Failed loading /usr/lib/php5/20100525/ZendGuardLoader.so:  /usr/lib/php5/20100525/ZendGuardLoader.so: cannot open shared object file: No such file or directory
+[Wed Jan 17 01:55:09.807984 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Wed Jan 17 01:55:09.808526 2018] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Jan 17 01:57:08.426419 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+Failed loading /usr/lib/php5/20100525/ZendGuardLoader.so:  /usr/lib/php5/20100525/ZendGuardLoader.so: cannot open shared object file: No such file or directory
+[Wed Jan 17 01:57:09.991102 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Wed Jan 17 01:57:09.991353 2018] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Jan 17 01:57:12.687135 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+Failed loading /usr/lib/php5/20100525/ZendGuardLoader.so:  /usr/lib/php5/20100525/ZendGuardLoader.so: cannot open shared object file: No such file or directory
+[Wed Jan 17 01:57:13.947433 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Wed Jan 17 01:57:13.947652 2018] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Jan 17 01:57:47.940183 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+Failed loading /usr/lib/php5/20100525/ZendGuardLoader.so:  /usr/lib/php5/20100525/ZendGuardLoader.so: cannot open shared object file: No such file or directory
+[Wed Jan 17 01:57:53.754142 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Wed Jan 17 01:57:53.754408 2018] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Jan 17 02:01:07.764237 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+Failed loading /usr/lib/php5/20100525/ZendGuardLoader.so:  /usr/lib/php5/20100525/ZendGuardLoader.so: cannot open shared object file: No such file or directory
+[Wed Jan 17 02:01:27.905538 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Wed Jan 17 02:01:27.905758 2018] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Jan 17 02:02:00.622945 2018] [authz_core:error] [pid 10] [client 192.168.99.1:49295] AH01630: client denied by server configuration: /var/www/html/app01/server-status
+[Wed Jan 17 02:02:20.745713 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+Failed loading /usr/lib/php5/20100525/ZendGuardLoader.so:  /usr/lib/php5/20100525/ZendGuardLoader.so: cannot open shared object file: No such file or directory
+[Wed Jan 17 02:02:22.115863 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Wed Jan 17 02:02:22.116061 2018] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Jan 17 02:02:27.221073 2018] [authz_core:error] [pid 8] [client 192.168.99.1:49304] AH01630: client denied by server configuration: /var/www/html/app01/server-status
+[Wed Jan 17 02:02:27.956333 2018] [authz_core:error] [pid 8] [client 192.168.99.1:49304] AH01630: client denied by server configuration: /var/www/html/app01/server-status
+[Wed Jan 17 02:02:28.180971 2018] [authz_core:error] [pid 8] [client 192.168.99.1:49304] AH01630: client denied by server configuration: /var/www/html/app01/server-status
+[Wed Jan 17 02:02:32.070255 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+Failed loading /usr/lib/php5/20100525/ZendGuardLoader.so:  /usr/lib/php5/20100525/ZendGuardLoader.so: cannot open shared object file: No such file or directory
+[Wed Jan 17 02:02:48.089084 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Wed Jan 17 02:02:48.089242 2018] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Jan 17 02:02:51.169812 2018] [authz_core:error] [pid 8] [client 192.168.99.1:49327] AH01630: client denied by server configuration: /var/www/html/app01/server-status
+[Wed Jan 17 02:02:51.999369 2018] [authz_core:error] [pid 8] [client 192.168.99.1:49327] AH01630: client denied by server configuration: /var/www/html/app01/server-status
+[Wed Jan 17 02:02:52.230846 2018] [authz_core:error] [pid 8] [client 192.168.99.1:49327] AH01630: client denied by server configuration: /var/www/html/app01/server-status
+[Wed Jan 17 02:02:52.414415 2018] [authz_core:error] [pid 8] [client 192.168.99.1:49327] AH01630: client denied by server configuration: /var/www/html/app01/server-status
+[Wed Jan 17 02:02:52.624237 2018] [authz_core:error] [pid 8] [client 192.168.99.1:49327] AH01630: client denied by server configuration: /var/www/html/app01/server-status
+[Wed Jan 17 02:02:52.814753 2018] [authz_core:error] [pid 8] [client 192.168.99.1:49327] AH01630: client denied by server configuration: /var/www/html/app01/server-status
+[Wed Jan 17 02:04:08.094009 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+Failed loading /usr/lib/php5/20100525/ZendGuardLoader.so:  /usr/lib/php5/20100525/ZendGuardLoader.so: cannot open shared object file: No such file or directory
+[Wed Jan 17 02:04:23.532401 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Wed Jan 17 02:04:23.532559 2018] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Jan 17 02:04:29.844320 2018] [authz_core:error] [pid 7] [client 192.168.99.1:49366] AH01630: client denied by server configuration: /var/www/html/app01/server-status
+[Wed Jan 17 02:04:30.621494 2018] [authz_core:error] [pid 7] [client 192.168.99.1:49366] AH01630: client denied by server configuration: /var/www/html/app01/server-status
+[Wed Jan 17 02:04:30.844211 2018] [authz_core:error] [pid 7] [client 192.168.99.1:49366] AH01630: client denied by server configuration: /var/www/html/app01/server-status
+[Wed Jan 17 02:04:31.029207 2018] [authz_core:error] [pid 7] [client 192.168.99.1:49366] AH01630: client denied by server configuration: /var/www/html/app01/server-status
+[Wed Jan 17 02:04:31.220852 2018] [authz_core:error] [pid 7] [client 192.168.99.1:49366] AH01630: client denied by server configuration: /var/www/html/app01/server-status
+[Wed Jan 17 02:04:31.411741 2018] [authz_core:error] [pid 7] [client 192.168.99.1:49366] AH01630: client denied by server configuration: /var/www/html/app01/server-status
+[Wed Jan 17 02:04:31.579828 2018] [authz_core:error] [pid 7] [client 192.168.99.1:49366] AH01630: client denied by server configuration: /var/www/html/app01/server-status
+[Wed Jan 17 02:04:50.890295 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+Failed loading /usr/lib/php5/20100525/ZendGuardLoader.so:  /usr/lib/php5/20100525/ZendGuardLoader.so: cannot open shared object file: No such file or directory
+[Wed Jan 17 02:07:17.486354 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Wed Jan 17 02:07:17.487800 2018] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Jan 17 02:07:23.677114 2018] [authz_core:error] [pid 11] [client 192.168.99.1:61522] AH01630: client denied by server configuration: /var/www/html/app01/server-status
+[Wed Jan 17 02:07:25.075373 2018] [authz_core:error] [pid 11] [client 192.168.99.1:61522] AH01630: client denied by server configuration: /var/www/html/app01/server-status
+[Wed Jan 17 02:08:02.590405 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+Failed loading /usr/lib/php5/20100525/ZendGuardLoader.so:  /usr/lib/php5/20100525/ZendGuardLoader.so: cannot open shared object file: No such file or directory
+[Wed Jan 17 02:08:19.011369 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Wed Jan 17 02:08:19.011531 2018] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Jan 17 02:08:22.451939 2018] [authz_core:error] [pid 7] [client 192.168.99.1:61571] AH01630: client denied by server configuration: /var/www/html/app01/server-status
+[Wed Jan 17 02:08:23.684997 2018] [authz_core:error] [pid 7] [client 192.168.99.1:61571] AH01630: client denied by server configuration: /var/www/html/app01/server-status
+[Wed Jan 17 02:08:24.062496 2018] [authz_core:error] [pid 7] [client 192.168.99.1:61571] AH01630: client denied by server configuration: /var/www/html/app01/server-status
+[Wed Jan 17 02:08:24.286988 2018] [authz_core:error] [pid 7] [client 192.168.99.1:61571] AH01630: client denied by server configuration: /var/www/html/app01/server-status
+[Wed Jan 17 02:08:24.500565 2018] [authz_core:error] [pid 7] [client 192.168.99.1:61571] AH01630: client denied by server configuration: /var/www/html/app01/server-status
+[Wed Jan 17 02:08:24.700907 2018] [authz_core:error] [pid 7] [client 192.168.99.1:61571] AH01630: client denied by server configuration: /var/www/html/app01/server-status
+[Wed Jan 17 02:08:24.901029 2018] [authz_core:error] [pid 7] [client 192.168.99.1:61571] AH01630: client denied by server configuration: /var/www/html/app01/server-status
+[Wed Jan 17 02:11:41.844236 2018] [authz_core:error] [pid 12] [client 192.168.99.1:61806] AH01630: client denied by server configuration: /var/www/html/app01/server-status
+[Wed Jan 17 02:11:46.050718 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+Failed loading /usr/lib/php5/20100525/ZendGuardLoader.so:  /usr/lib/php5/20100525/ZendGuardLoader.so: cannot open shared object file: No such file or directory
+[Wed Jan 17 02:13:05.807562 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Wed Jan 17 02:13:05.807730 2018] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Jan 17 02:13:07.539791 2018] [authz_core:error] [pid 9] [client 192.168.99.1:61864] AH01630: client denied by server configuration: /var/www/html/app01/server-status
+[Wed Jan 17 02:13:09.036303 2018] [authz_core:error] [pid 9] [client 192.168.99.1:61864] AH01630: client denied by server configuration: /var/www/html/app01/server-status
+[Wed Jan 17 02:13:10.054740 2018] [authz_core:error] [pid 9] [client 192.168.99.1:61864] AH01630: client denied by server configuration: /var/www/html/app01/server-status
+[Wed Jan 17 02:13:10.279765 2018] [authz_core:error] [pid 9] [client 192.168.99.1:61864] AH01630: client denied by server configuration: /var/www/html/app01/server-status
+[Wed Jan 17 02:13:10.480595 2018] [authz_core:error] [pid 9] [client 192.168.99.1:61864] AH01630: client denied by server configuration: /var/www/html/app01/server-status
+[Wed Jan 17 02:13:10.679191 2018] [authz_core:error] [pid 9] [client 192.168.99.1:61864] AH01630: client denied by server configuration: /var/www/html/app01/server-status
+[Wed Jan 17 02:13:10.878987 2018] [authz_core:error] [pid 9] [client 192.168.99.1:61864] AH01630: client denied by server configuration: /var/www/html/app01/server-status
+[Wed Jan 17 02:13:11.087508 2018] [authz_core:error] [pid 9] [client 192.168.99.1:61864] AH01630: client denied by server configuration: /var/www/html/app01/server-status
+[Wed Jan 17 02:14:06.616206 2018] [authz_core:error] [pid 11] [client 192.168.99.1:61902] AH01630: client denied by server configuration: /var/www/html/app01/server-status
+[Wed Jan 17 02:19:06.004386 2018] [authz_core:error] [pid 13] [client 192.168.99.1:62066] AH01630: client denied by server configuration: /var/www/html/app01/server-status
+[Wed Jan 17 02:21:58.110974 2018] [authz_core:error] [pid 15] [client 192.168.99.1:62092] AH01630: client denied by server configuration: /var/www/html/app01/server-status
+[Wed Jan 17 02:27:37.903991 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+Failed loading /usr/lib/php5/20100525/ZendGuardLoader.so:  /usr/lib/php5/20100525/ZendGuardLoader.so: cannot open shared object file: No such file or directory
+[Wed Jan 17 02:30:34.316187 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Wed Jan 17 02:30:34.316497 2018] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Jan 17 02:53:14.230937 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+Failed loading /usr/lib/php5/20100525/ZendGuardLoader.so:  /usr/lib/php5/20100525/ZendGuardLoader.so: cannot open shared object file: No such file or directory
+[Wed Jan 17 02:58:02.831833 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Wed Jan 17 02:58:02.831992 2018] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Jan 17 03:03:21.749067 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+Failed loading /usr/lib/php5/20100525/ZendGuardLoader.so:  /usr/lib/php5/20100525/ZendGuardLoader.so: cannot open shared object file: No such file or directory
+[Wed Jan 17 03:08:18.840920 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Wed Jan 17 03:08:18.841728 2018] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+Failed loading /usr/lib/php5/20100525/ZendGuardLoader.so:  /usr/lib/php5/20100525/ZendGuardLoader.so: cannot open shared object file: No such file or directory
+[Wed Jan 17 03:11:02.769476 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Wed Jan 17 03:11:02.769627 2018] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Jan 17 03:26:27.496471 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+Failed loading /usr/lib/php5/20100525/ZendGuardLoader.so:  /usr/lib/php5/20100525/ZendGuardLoader.so: cannot open shared object file: No such file or directory
+[Wed Jan 17 03:26:51.353232 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Wed Jan 17 03:26:51.353728 2018] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Jan 17 03:27:33.979529 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+Failed loading /usr/lib/php5/20100525/ZendGuardLoader.so:  /usr/lib/php5/20100525/ZendGuardLoader.so: cannot open shared object file: No such file or directory
+[Wed Jan 17 03:27:48.842592 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Wed Jan 17 03:27:48.842748 2018] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Jan 17 03:34:13.809941 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+Failed loading /usr/lib/php5/20100525/ZendGuardLoader.so:  /usr/lib/php5/20100525/ZendGuardLoader.so: cannot open shared object file: No such file or directory
+[Wed Jan 17 03:36:17.903468 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Wed Jan 17 03:36:17.903621 2018] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Jan 17 03:36:24.083058 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+Failed loading /usr/lib/php5/20100525/ZendGuardLoader.so:  /usr/lib/php5/20100525/ZendGuardLoader.so: cannot open shared object file: No such file or directory
+[Wed Jan 17 03:36:52.079214 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Wed Jan 17 03:36:52.079415 2018] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Jan 17 03:39:03.755486 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+Failed loading /usr/lib/php5/20100525/ZendGuardLoader.so:  /usr/lib/php5/20100525/ZendGuardLoader.so: cannot open shared object file: No such file or directory
+[Wed Jan 17 03:39:34.295101 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Wed Jan 17 03:39:34.295374 2018] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+Failed loading /usr/lib/php5/20100525/ZendGuardLoader.so:  /usr/lib/php5/20100525/ZendGuardLoader.so: cannot open shared object file: No such file or directory
+[Wed Jan 17 03:39:34.478073 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Wed Jan 17 03:39:34.478272 2018] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Jan 17 03:44:07.250291 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Wed Jan 17 03:44:07.293062 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+Failed loading /usr/lib/php5/20100525/ZendGuardLoader.so:  /usr/lib/php5/20100525/ZendGuardLoader.so: cannot open shared object file: No such file or directory
+[Wed Jan 17 03:44:38.830581 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Wed Jan 17 03:44:38.830872 2018] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+Failed loading /usr/lib/php5/20100525/ZendGuardLoader.so:  /usr/lib/php5/20100525/ZendGuardLoader.so: cannot open shared object file: No such file or directory
+[Wed Jan 17 03:44:39.114650 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Wed Jan 17 03:44:39.114875 2018] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Jan 17 03:44:57.388937 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+Failed loading /usr/lib/php5/20100525/ZendGuardLoader.so:  /usr/lib/php5/20100525/ZendGuardLoader.so: cannot open shared object file: No such file or directory
+[Wed Jan 17 03:46:04.700331 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Wed Jan 17 03:46:04.700495 2018] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Jan 17 03:47:19.784839 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+Failed loading /usr/lib/php5/20100525/ZendGuardLoader.so:  /usr/lib/php5/20100525/ZendGuardLoader.so: cannot open shared object file: No such file or directory
+[Wed Jan 17 04:09:48.737896 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Wed Jan 17 04:09:48.738057 2018] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Jan 17 04:10:43.729772 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+Failed loading /usr/lib/php5/20100525/ZendGuardLoader.so:  /usr/lib/php5/20100525/ZendGuardLoader.so: cannot open shared object file: No such file or directory
+[Wed Jan 17 04:11:24.415352 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Wed Jan 17 04:11:24.415554 2018] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+Failed loading /usr/lib/php5/20100525/ZendGuardLoader.so:  /usr/lib/php5/20100525/ZendGuardLoader.so: cannot open shared object file: No such file or directory
+[Wed Jan 17 04:14:36.078318 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Wed Jan 17 04:14:36.078529 2018] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
