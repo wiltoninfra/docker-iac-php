@@ -306,3 +306,7 @@ Failed loading /usr/lib/php5/20100525/ZendGuardLoader.so:  /usr/lib/php5/2010052
 [Wed Jan 17 04:50:03.178329 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
 [Wed Jan 17 04:50:03.178556 2018] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
 [Wed Jan 17 04:57:26.611757 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+Failed loading /usr/lib/php5/20100525/ZendGuardLoader.so:  /usr/lib/php5/20100525/ZendGuardLoader.so: cannot open shared object file: No such file or directory
+[Wed Jan 17 23:21:59.053482 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Wed Jan 17 23:21:59.053729 2018] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Jan 17 23:22:02.741821 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
