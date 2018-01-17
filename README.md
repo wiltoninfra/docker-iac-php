@@ -89,10 +89,7 @@ route add 172.38.1.0 mask 255.255.255.0 192.168.99.100
 
 ### Comandos Uteis Docker
 
-
-
-´´´
-
+```
 //Remove todas as configurações (Imagens, Networks, Conteiners)
 docker system prune -a
 
@@ -107,6 +104,4 @@ docker volume ls -f dangling=true
 
 //Remover todos os volumes
 docker volume prune
-
-
-´´´
+```
