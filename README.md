@@ -1,7 +1,14 @@
-Deploy TBF CRM
+Deploy Infraestrutura para Ambientes PHP 5.6
 =================
 
 ## Ambiente de Desenvolvimento
+
+- Prometheus
+- Graylog
+- PHP5.6 + Apache2.4
+- Mysql Server 5.5
+- Comandos npm, gulp, composer
+- Phpmyadmin
 
 Padronização da estrutura para facilitar o uso.
 
@@ -63,31 +70,21 @@ $ docker-compose up -d --build
 
 Após terminar o Build realize os testes e veja se seu ambiente esta funcioanando.
 
-## Realizar Clone dos repositórios abaixo na pasta dev
-
-### TBF CRM
-
-git clone https://bitbucket.org/tbfconsultoria/tbf-crm.git crm
-
-### PORTAL TBF CRM
-
-git clone https://bitbucket.org/tbfconsultoria/portal-cliente-crm.git portal
-
 
 ## Incluir no Hosts do Windows
 
-172.38.1.5 portal.tbf.local
+172.38.1.5 app01.local
 
-172.38.1.5 crm.tbf.local
+172.38.1.5 app02.local
 
-172.38.1.5 site.tbf.local
+172.38.1.5 app03.local
 
 
 ## Adicionar Rota no S.O - Requer privilégios
 
-##### Windows Execute via Prompt Comando 
+### Windows Execute via Prompt Comando 
 
-route add 172.38.0.0 mask 255.255.255.0 192.168.99.100
+route add 172.38.1.0 mask 255.255.255.0 192.168.99.100
 
 
 ### Comandos Uteis Docker
