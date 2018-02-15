@@ -24,7 +24,7 @@ services:
       ports:
         - "3306:3306"
       volumes:
-        - "./infra/mysql/db:/var/www/html"
+        - "./infra/mysql/db:/var/lib/mysql"
       networks:
         net-local:
           ipv4_address: 172.38.1.2
